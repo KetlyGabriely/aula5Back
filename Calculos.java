@@ -1,11 +1,10 @@
-package ativAula5;
+package aula5;
 
 public interface Calculos {
 	
-	double somar();
-	double sub();
-	double mult();
-	double div();
-	double exp();
-
+	 double somar();
+	 double sub();
+	 double mult();
+	 int div();
+	 int exp();
 }
